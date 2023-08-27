@@ -24,7 +24,8 @@ to pair people who do not already know each other, enhancing the networking expe
 2. Open the project in Android Studio
 3. Build and run the app on your device
 
-Or download the APK [here]()
+Or download the
+APK [here](https://github.com/Tiray7/talkpairings/raw/main/apks/talkpairings_1_0.apk)
 
 ## Contributing
 
