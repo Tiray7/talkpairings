@@ -1,0 +1,21 @@
+# Compiled source
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+.gradle/
+build/
+local.properties
+
+# Proguard
+proguard-rules.pro
+
+# Miscellaneous
+*.class
+*.swp
+*.bak
+*.swm
+*.swo
+*.swn
+.DS_Store
